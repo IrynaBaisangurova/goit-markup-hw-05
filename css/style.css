@@ -525,8 +525,7 @@ button{
   justify-content: center;
   align-items: center;
   background-color: rgba(46, 47, 66, 0.4);
-  opacity: 0;
-  /* pointer-events: none; */
+  opacity: 1;
   transition: opacity 250ms ease-in-out;
 }
 
