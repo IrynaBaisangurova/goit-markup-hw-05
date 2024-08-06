@@ -683,7 +683,7 @@ button{
 .check-box {
   margin-bottom: 24px;
 }
-.checkbox {
+.checkbox { 
   width: 16px;
   height: 16px;
   display: inline-flex;
