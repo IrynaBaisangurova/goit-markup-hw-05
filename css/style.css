@@ -495,7 +495,6 @@ button{
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 16px;
   border-radius: 4px;
   padding: 8px 24px;
   min-width: 165px;
